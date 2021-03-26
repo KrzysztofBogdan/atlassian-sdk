@@ -1,3 +1,4 @@
+# 8.0.16
 FROM maven:3.6.3
 
 COPY atlassian-plugin-sdk-8.0.16.tar.gz /tmp/atlassian-plugin-sdk-8.0.16.tar.gz
