@@ -1,4 +1,4 @@
-FROM maven:3.6.3-openjdk-17-slim
+FROM maven:3.6.3-openjdk-16-slim
 
 COPY atlassian-plugin-sdk-8.0.16.tar.gz /tmp/atlassian-plugin-sdk-8.0.16.tar.gz
 
